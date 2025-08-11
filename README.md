@@ -4,7 +4,7 @@ Hi 👋 My name is Andrei Bucşa
 Computer Science Student
 ------------------------
 
-I am a third year (also the last year) computer science student, passionate about learning new skills and expanding my knowledge.
+I'm a computer science graduate, passionate about learning new skills and expanding my knowledge.
 
 * 🧠  I'm learning .NET and Angular
 
