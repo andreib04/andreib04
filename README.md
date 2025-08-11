@@ -1,7 +1,7 @@
 Hi 👋 My name is Andrei Bucşa
 =============================
 
-Computer Science Student
+Computer Science Graduate
 ------------------------
 
 I'm a computer science graduate, passionate about learning new skills and expanding my knowledge.
